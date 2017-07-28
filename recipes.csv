@@ -1,0 +1,652 @@
+Chapter,Family,Name,Amount,Ingredient,Notes
+Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
+,,,4 oz,orange juice,
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Harvey Wallbanger,1 oz,vodka,
+,,,0.5 oz,Galliano,
+,,,4 oz,orange juice,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Melon Ball,1 oz,vodka,
+,,,0.5 oz,Midori melon liqueur,
+,,,4 oz,orange juice,
+,,,1,melon ball,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Fuzzy Navel,1 oz,vodka,
+,,,0.5 oz,peach schnapps,
+,,,4 oz,orange juice,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Green Eyes,1 oz,vodka,
+,,,4 oz,orange juice,
+,,,0.5 oz,blue curacao,
+,,,2,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Blood Orange Screwdriver,1 oz,vodka,
+,,,4 oz,orange juice,
+,,,0.5 oz,Campari,
+,,,1,blood orange wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Collins Cocktails,Tom Collins,1.5 oz,gin,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,John Collins,1.5 oz,rye whiskey,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Juan Collins,1.5 oz,tequila,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Comrade Collins,1.5 oz,vodka,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Sandy Collins,1.5 oz,scotch,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Jack Collins,1.5 oz,applejack liqueur,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Pedro Collins,1.5 oz,rum,
+,,,2 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,1,highball glass,glass
+,,,some,ice cubes,ice
+,Cape Cod Cocktails,Cape Cod,1 oz,vodka,
+,,,4 oz,red cranberry juice,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Watermelon,1 oz,vodka,
+,,,0.5 oz,Midori melon liqueur,
+,,,4 oz,red cranberry juice,
+,,,1,melon ball,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Woo Woo,1 oz,vodka,
+,,,0.5 oz,peach schnapps,
+,,,4 oz,red cranberry juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Sex on the Beach,1 oz,vodka,
+,,,0.5 oz,peach schnapps,
+,,,2 oz,red cranberry juice,
+,,,2 oz,orange juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Forever Young,1 oz,gin,
+,,,4 oz,red cranberry juice,
+,,,1 oz,club soda,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Georgia Peach,1 oz,light rum,
+,,,0.5 oz,peach schnapps,
+,,,4 oz,red cranberry juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Greyhound,1 oz,vodka,
+,,,4 oz,white grapefruit juice,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Seabreeze,1 oz,vodka,
+,,,2 oz,white grapefruit juice,
+,,,2 oz,red cranberry juice,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Bay Breeze,1 oz,vodka,
+,,,2 oz,pineapple juice,
+,,,2 oz,red cranberry juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Madras,1 oz,vodka,
+,,,2 oz,orange juice,
+,,,2 oz,red cranberry juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Salty Dog,1 oz,gin,
+,,,4 oz,white grapefruit juice,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,,1,salted rim,garnish
+,,Arizona Cooler,1 oz,gin,
+,,,2 oz,white grapefruit juice,
+,,,2 oz,red cranberry juice,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Iced Teas,Long Island Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,cola,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Long Beach Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,red cranberry juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Miami Beach Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,blue curacao,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,lemon-lime soda,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Beverly Hills Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,sparkling white wine,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Gilligan's Island Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,red grape juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Hawaiian Iced Tea,0.5 oz,vodka,
+,,,0.5 oz,light rum,
+,,,0.5 oz,gin,
+,,,0.5 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1 oz,pineapple juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Sours,Whiskey Sour,1.5 oz,rye whiskey,
+,,,1.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,4 dashes,bitters,
+,,,5-10 sec,shake,shake
+,,,1,orange boat,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Bourbon Sour,1.5 oz,bourbon,
+,,,1.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,4 dashes,bitters,
+,,,5-10 sec,shake,shake
+,,,1,orange boat,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Amaretto Sour,1.5 oz,amaretto,
+,,,1.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,4 dashes,bitters,
+,,,5-10 sec,shake,shake
+,,,1,orange boat,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Sloe Gin Fizz,1.5 oz,sloe gin,
+,,,1.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,4 dashes,bitters,
+,,,1 oz,club soda,
+,,,5-10 sec,shake,shake
+,,,1,orange boat,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Ramos Gin Fizz,1.5 oz,gin,
+,,,1.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,4 dashes,bitters,
+,,,1 oz,club soda,
+,,,1,lemon wedge,garnish
+,,,5-10 sec,shake,shake
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,Champagne Cocktails,Classic Champagne Cocktail,0.5 oz,brandy,
+,,,0.5 oz,simple syrup,
+,,,2 dashes,bitters,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,4 oz,champagne,
+,,,1,champagne flute,glass
+,,French 75,1 oz,gin,
+,,,0.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,4 oz,champagne,
+,,,1,champagne flute,glass
+,,Kir Royale,1 oz,Chambord,
+,,,4 oz,champagne,
+,,,1,blackberry,garnish
+,,,1,champagne flute,glass
+,,Mimosa,0.5 oz,Cointreau,
+,,,1.5 oz,orange juice,
+,,,3 oz,champagne,
+,,,1,orange spiral,garnish
+,,,1,champagne flute,glass
+,,Kir,1 oz,Chambord,
+,,,5 oz,dry white wine,
+,,,1,blackberry,garnish
+,,,1,wine glass,glass
+,Aperitifs,Americano,1 oz,Campari,
+,,,1 oz,sweet vermouth,
+,,,2 oz,club soda,
+,,,1,orange spiral,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Bronx,1 oz,gin,
+,,,0.5 oz,sweet vermouth,
+,,,0.5 oz,dry vermouth,
+,,,3 oz,orange juice,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,1,cocktail glass,glass
+,,Campari Royal,1 oz,Campari,
+,,,1 oz,Grand Marnier,
+,,,3 oz,orange juice,
+,,,1,orange wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Milanese,1 oz,Campari,
+,,,0.5 oz,Galliano,
+,,,0.5 oz,amaretto,
+,,,1 oz,lemon juice,
+,,,5-10 sec,shake,shake
+,,,1,orange spiral,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,Digestifs,Moscow Mule,2 oz,vodka,
+,,,1 oz,lime juice,
+,,,0.5 oz,simple syrup,
+,,,3 dashes,bitters,
+,,,5-10 sec,shake,shake
+,,,3 oz,ginger beer,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Sazerac,0.5 oz,Pernod,rinse
+,,,2 oz,bourbon,
+,,,0.5 oz,simple syrup,
+,,,2 dashes,bitters,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,Pink Gin and Tonic,1.5 oz,gin,
+,,,2 dashes,bitters,
+,,,2 oz,tonic water,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Old Fashioned,1,orange slice,
+,,,2,maraschino cherries,
+,,,1,muddle,muddle
+,,,2 oz,bourbon,
+,,,0.5 oz,simple syrup,
+,,,3 dashes,bitters,
+,,,1,orange twist,garnish
+,,,1,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,Muddled Cocktails,Mojito,12 to 15,mint leaves,
+,,,0.5 oz,lime juice,
+,,,0.75 oz,simple syrup,
+,,,1,muddle,muddle
+,,,2 oz,rum,
+,,,some,ice cubes,ice
+,,,2 oz,club soda,
+,,,1,sprig of mint,garnish
+,,,1,highball glass,glass
+,,Melon Mojito,3 or 4,1-inch melon chunks,
+,,,12 to 15,mint leaves,
+,,,0.5 oz,lime juice,
+,,,0.75 oz,simple syrup,
+,,,1,muddle,muddle
+,,,2 oz,rum,
+,,,some,ice cubes,ice
+,,,2 oz,club soda,
+,,,1,sprig of mint,garnish
+,,,1,highball glass,glass
+,,Caipirinha,3,lime wedge,
+,,,0.75 oz,simple syrup,
+,,,1,muddle,muddle
+,,,2 oz,cachaca,
+,,,some,crushed ice,ice
+,,,1,lime wedge,garnish
+,,,1,rocks glass,glass
+,,Strawberry Caipirinha,3 or 4,strawberries,
+,,,3,lime wedge,
+,,,0.75 oz,simple syrup,
+,,,1,muddle,muddle
+,,,2 oz,cachaca,
+,,,some,crushed ice,ice
+,,,1,lime wedge,garnish
+,,,1,rocks glass,glass
+,Tomato-Based Cocktails,Bloody Mary,1,salted rim,garnish
+,,,1.5 oz,vodka,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,3.5 oz,tomato juice,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,lemon wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Bloody Caesar,1,celery salted rim,garnish
+,,,1.5 oz,vodka,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,3.5 oz,clam-tomato juice,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,celery stalk,garnish
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Bloody Bull,1,salted rim,garnish
+,,,1.5 oz,vodka,
+,,,2 oz,beef bouillon,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,2 oz,tomato juice,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Bloody Maria,1,salted rim,garnish
+,,,1.5 oz,tequila,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,3.5 oz,tomato juice,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Smokin' Hot Bloody Mary,1,salted rim,garnish
+,,,1.5 oz,Absolut Peppar vodka,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco's Habanero sauce,
+,,,1 tsp,horseradish,
+,,,3.5 oz,tomato juice,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,jalapeno pepper,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Tastes of Rye Whiskey,Blue Bomber,12,blueberries,
+,,,3,maraschino cherries,
+,,,1,muddle,muddle
+,,,1.5 oz,rye whiskey,
+,,,0.5 oz,cherry brandy,
+,,,1 oz,club soda,
+,,,1,maraschino cherries,garnish
+,,,some,crushed ice,ice
+,,,1,rocks glass,glass
+,,Ruby Red Rye,1.5 oz,rye whiskey,
+,,,2.5 oz,red grapefruit juice,
+,,,1 oz,tonic water,
+,,,1,orange wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Rye and Dry,1.5 oz,rye whiskey,
+,,,2.5 oz,ginger ale,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Classic Hummer,1 oz,rye whiskey,
+,,,1 oz,Kahlua,
+,,,1 oz,half & half cream,
+,,,2 scoops,ice cream,
+,,,1 cup,crushed ice,ice
+,,,1,blender,blend
+,,,3,coffee beans,garnish
+,,,1,hurricane glass,glass
+,Tastes of Irish Whiskey,Dublin Peach,1 oz,Irish whiskey,
+,,,0.5 oz,vanilla vodka,
+,,,0.5 oz,amaretto,
+,,,1 oz,peach puree,
+,,,0.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,peach slice,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Rugburn,6,raspberries,
+,,,1,muddle,muddle
+,,,1.5 oz,Irish whiskey,
+,,,0.5 oz,Chambord,
+,,,0.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,2 oz,red cranberry juice,
+,,,3,raspberries,garnish
+,,,some,crushed ice,ice
+,,,1,highball glass,glass
+,,Dr. J,1.5 oz,Irish whiskey,
+,,,0.5 oz,vanilla vodka,
+,,,0.5 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,3 oz,ginger ale,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,That's a Corker,0.5,diced lemon,
+,,,1,muddle,muddle
+,,,1.5 oz,Irish whiskey,
+,,,0.5 oz,Galliano,
+,,,0.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,some,crushed ice,ice
+,,,1,rocks glass,glass
+Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
+,,,0.5 oz,Chambord,
+,,,0.5 oz,banana liqueur,
+,,,3 oz,pineapple juice,
+,,,1 oz,lime juice,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,pineapple flag,garnish
+,,,some,ice cubes,ice
+,,,1,hurricane glass,glass
+,,Planter's Punch,1.5 oz,light rum,
+,,,4 oz,pineapple juice,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Mai Tai,0.5 oz,light rum,
+,,,0.5 oz,Grand Marnier,
+,,,0.5 oz,amaretto,
+,,,3 oz,pineapple juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,pineapple wedge,garnish
+,,,some,ice cubes,ice
+,,,1,hurricane glass,glass
+,,Blue Lagoon,1 oz,light rum,
+,,,0.5 oz,blue curacao,
+,,,2 oz,pineapple juice,
+,,,2 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,orange boat,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Drinks to Beat the Heat,Bartender's Root Beer,1 oz,Kahlua,
+,,,0.5 oz,Galliano,
+,,,3 oz,cola,
+,,,1 oz,club soda,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Cuba Libre,1.5 oz,rum,
+,,,3.5 oz,cola,
+,,,0.25 oz,lime juice,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Texas Tea,0.5 oz,tequila,
+,,,0.5 oz,rum,
+,,,0.5 oz,triple sec,
+,,,1 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,2 oz,cola,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Lynchburg Lemonade,1 oz,Jack Daniel's,
+,,,0.5 oz,triple sec,
+,,,0.5 oz,lemon juice,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,2.5 oz,lemon-lime soda,
+,,,1,lemon wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Dangerous Cocktails,Killer Kool-aid,0.5 oz,vodka,
+,,,0.5 oz,Midori melon liqueur,
+,,,0.5 oz,amaretto,
+,,,4 oz,red cranberry juice,
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Hurricane,0.5 oz,light rum,
+,,,0.5 oz,dark rum,
+,,,0.5 oz,Galliano,
+,,,2 oz,orange juice,
+,,,1 oz,pineapple juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,hurricane glass,glass
+,,Zombie,0.5 oz,light rum,
+,,,0.5 oz,dark rum,
+,,,0.5 oz,Grand Marnier,
+,,,2 oz,orange juice,
+,,,2 oz,pineapple juice,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,pineapple flag,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Scorpion,0.5 oz,light rum,
+,,,0.5 oz,cognac,
+,,,0.5 oz,amaretto,
+,,,3 oz,orange juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,orange flag,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Big Fella,0.5 oz,vodka,
+,,,0.5 oz,Southern Comfort,
+,,,0.5 oz,amaretto,
+,,,4 oz,red cranberry juice,
+,,,1,lime wheel,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Global Sunshine Cocktails,Singapore Sling,1.5 oz,gin,
+,,,2 oz,orange juice,
+,,,1 oz,lime juice,
+,,,0.5 oz,grenadine,
+,,,1 oz,club soda,
+,,,1,orange flag,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Bahama Mama,1 oz,light rum,
+,,,0.5 oz,Malibu rum,
+,,,2 oz,orange juice,
+,,,2 oz,pineapple juice,
+,,,5-10 sec,shake,shake
+,,,1,pineapple flag,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Alabama Slammer,0.5 oz,vodka,
+,,,0.5 oz,Southern Comfort,
+,,,0.5 oz,amaretto,
+,,,4 oz,orange juice,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Blue Hawaiian,1 oz,Malibu rum,
+,,,0.5 oz,blue curacao,
+,,,3 oz,pineapple juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,orange flag,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
