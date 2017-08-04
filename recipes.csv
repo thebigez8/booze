@@ -140,12 +140,12 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,1,lime wedge,garnish
 ,,,some,ice cubes,ice
 ,,,1,rocks glass,glass
-,,Salty Dog,1 oz,gin,
+,,Salty Dog,1,salted rim,garnish
+,,,1 oz,gin,
 ,,,4 oz,white grapefruit juice,
 ,,,1,lemon wedge,garnish
 ,,,some,ice cubes,ice
 ,,,1,highball glass,glass
-,,,1,salted rim,garnish
 ,,Arizona Cooler,1 oz,gin,
 ,,,2 oz,white grapefruit juice,
 ,,,2 oz,red cranberry juice,
@@ -746,3 +746,179 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,orange slice,garnish
 ,,,some,ice cubes,ice
 ,,,1,highball glass,glass
+"Daiquiris, Coladas, & Margaritas",Frozen Daiquiris,Frozen Lime Daiquiri,1.5 oz,light rum,
+,,,3 oz,lime juice,
+,,,0.5 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,lime wheel,garnish
+,,,1,hurricane glass,glass
+,,Frozen Strawberry Daiquiri,1,superfine sugar rim,garnish
+,,,1.5 oz,light rum,
+,,,4,strawberries,
+,,,1 oz,lime juice,
+,,,0.5 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,lime wheel,garnish
+,,,1,hurricane glass,glass
+,,Frozen Banana Daiquiri,1.5 oz,light rum,
+,,,0.5,ripe banana,
+,,,1 oz,lime juice,
+,,,0.5 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,banana slice,garnish
+,,,1,hurricane glass,glass
+,,Frozen Pineapple Daiquiri,1.5 oz,light rum,
+,,,1,pineapple ring,
+,,,1 oz,lime juice,
+,,,0.5 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,pineapple wedge,garnish
+,,,1,hurricane glass,glass
+,Daiquiris on the Rocks,Raspberry Dairquiri,1,superfine sugar rim,garnish
+,,,1 oz,light rum,
+,,,0.5 oz,Chambord,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,3,raspberries,garnish
+,,,some,crushed ice,ice
+,,,1,margarita glass,glass
+,,Melon Daiquiri,1 oz,light rum,
+,,,0.5 oz,Midori melon liqueur,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,melon slice,garnish
+,,,some,crushed ice,ice
+,,,1,margarita glass,glass
+,,Peach Daiquiri,1 oz,light rum,
+,,,0.5 oz,peach schnapps,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,peach slice,garnish
+,,,some,crushed ice,ice
+,,,1,margarita glass,glass
+,,Pear Daiquiri,1 oz,light rum,
+,,,0.5 oz,pear liqueur,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,pear slice,garnish
+,,,some,crushed ice,ice
+,,,1,margarita glass,glass
+,Frozen Coladas,Pina Colada,1.5 oz,light rum,
+,,,2 oz,pineapple juice,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,pineapple flag,garnish
+,,,1,hurricane glass,glass
+,,Strawberry Colada,1.5 oz,light rum,
+,,,2 oz,pineapple juice,
+,,,4,strawberries,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,strawberries,garnish
+,,,1,hurricane glass,glass
+,,Banana Colada,1.5 oz,light rum,
+,,,2 oz,pineapple juice,
+,,,0.5,ripe banana,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,banana slice,garnish
+,,,1,hurricane glass,glass
+,,Peach Colada,1.5 oz,light rum,
+,,,2 oz,pineapple juice,
+,,,0.25,ripe peach,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,peach slice,garnish
+,,,1,hurricane glass,glass
+,,Mocha Colada,1 oz,light rum,
+,,,0.5 oz,Kahlua,
+,,,2 oz,pineapple juice,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,maraschino cherries,garnish
+,,,1,hurricane glass,glass
+,,Chi Chi,1.5 oz,vodka,
+,,,2 oz,pineapple juice,
+,,,1 oz,half & half cream,
+,,,1 oz,coconut cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,pineapple flag,garnish
+,,,1,hurricane glass,glass
+,Margaritas,Lime Margarita on the Rocks,1,salted rim,garnish
+,,,1 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,lime wedge,garnish
+,,,some,crushed ice,ice
+,,Strawberry Margarita on the Rocks,1,superfine sugar rim,garnish
+,,,4,strawberries,
+,,,1,muddle,muddle
+,,,1 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,lime wedge,garnish
+,,,some,crushed ice,ice
+,,,1,margarita glass,glass
+,,Frozen Raspberry Margarita,1,superfine sugar rim,garnish
+,,,12,raspberries,
+,,,1 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,3,raspberries,garnish
+,,,1,margarita glass,glass
+,,Frozen Peach Margarita,0.25,peach,
+,,,1 oz,tequila,
+,,,0.5 oz,triple sec,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,peach slice,garnish
+,,,1,margarita glass,glass
+,,Italian Margarita,1,salted rim,garnish
+,,,1 oz,tequila,
+,,,0.5 oz,amaretto,
+,,,2 oz,lime juice,
+,,,1 oz,lime cordial,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,lime wedge,garnish
+,,,some,crushed ice,ice
