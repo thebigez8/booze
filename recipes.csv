@@ -279,7 +279,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,4 oz,champagne,
 ,,,1,champagne flute,glass
 ,,French 75,1 oz,gin,
-,,,0.5 oz,lemon juice,
+,,,0.25,lemon,
 ,,,0.5 oz,simple syrup,
 ,,,some,ice cubes,ice
 ,,,5-10 sec,shake,shake
@@ -321,7 +321,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,Milanese,1 oz,Campari,
 ,,,0.5 oz,Galliano,
 ,,,0.5 oz,amaretto,
-,,,1 oz,lemon juice,
+,,,0.5,lemon,
 ,,,5-10 sec,shake,shake
 ,,,1,orange spiral,garnish
 ,,,some,ice cubes,ice
@@ -359,7 +359,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,some,ice cubes,ice
 ,,,1,rocks glass,glass
 ,Muddled Cocktails,Mojito,12 to 15,mint leaves,
-,,,0.5 oz,lime juice,
+,,,0.5,lime,
 ,,,0.75 oz,simple syrup,
 ,,,1,muddle,muddle
 ,,,2 oz,rum,
@@ -369,7 +369,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,1,highball glass,glass
 ,,Melon Mojito,3 or 4,1-inch melon chunks,
 ,,,12 to 15,mint leaves,
-,,,0.5 oz,lime juice,
+,,,0.5,lime,
 ,,,0.75 oz,simple syrup,
 ,,,1,muddle,muddle
 ,,,2 oz,rum,
@@ -469,7 +469,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,1 oz,Kahlua,
 ,,,1 oz,half & half cream,
 ,,,2 scoops,ice cream,
-,,,1 cup,crushed ice,ice
+,,,1 cup,crushed ice,
 ,,,1,blender,blend
 ,,,3,coffee beans,garnish
 ,,,1,hurricane glass,glass
@@ -495,7 +495,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,1,highball glass,glass
 ,,Dr. J,1.5 oz,Irish whiskey,
 ,,,0.5 oz,vanilla vodka,
-,,,0.5 oz,lime juice,
+,,,0.5,lime,
 ,,,5-10 sec,shake,shake
 ,,,3 oz,ginger ale,
 ,,,1,lime wedge,garnish
@@ -505,7 +505,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,1,muddle,muddle
 ,,,1.5 oz,Irish whiskey,
 ,,,0.5 oz,Galliano,
-,,,0.5 oz,lemon juice,
+,,,0.25,lemon,
 ,,,0.5 oz,simple syrup,
 ,,,some,crushed ice,ice
 ,,,1,rocks glass,glass
@@ -558,7 +558,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,Texas Tea,0.5 oz,tequila,
 ,,,0.5 oz,rum,
 ,,,0.5 oz,triple sec,
-,,,1 oz,lemon juice,
+,,,0.5,lemon,
 ,,,0.5 oz,simple syrup,
 ,,,5-10 sec,shake,shake
 ,,,2 oz,cola,
@@ -567,7 +567,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,highball glass,glass
 ,,Lynchburg Lemonade,1 oz,Jack Daniel's,
 ,,,0.5 oz,triple sec,
-,,,0.5 oz,lemon juice,
+,,,0.25,lemon,
 ,,,0.5 oz,simple syrup,
 ,,,5-10 sec,shake,shake
 ,,,2.5 oz,lemon-lime soda,
@@ -648,5 +648,101 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1 oz,lime juice,
 ,,,5-10 sec,shake,shake
 ,,,1,orange flag,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Tastes of Rum,Raggae Rum Punch,1.5 oz,dark rum,
+,,,0.5 oz,Chambord,
+,,,2 oz,orange juice,
+,,,2 oz,pineapple juice,
+,,,0.5,lime,
+,,,5-10 sec,shake,shake
+,,,some,ice cubes,ice
+,,,1,pineapple flag,garnish
+,,,1,highball glass,glass
+,,Bacardi Cocktail,2 oz,Bacardi light rum,
+,,,1 oz,lime juice,
+,,,1 oz,water,
+,,,0.5 oz,grenadine,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,1,cocktail glass,glass
+,,Pain Killer,1.5 oz,dark rum,
+,,,0.5 oz,Malibu coconut rum,
+,,,2 oz,orange juice,
+,,,2 oz,pineapple juice,
+,,,5-10 sec,shake,shake
+,,,some,ice cubes,ice
+,,,1,pineapple wedge,garnish
+,,,1,highball glass,glass
+,,Reef Juice,1.5 oz,dark rum,
+,,,0.5 oz,banana liqueur,
+,,,3 oz,pineapple juice,
+,,,0.5,lime,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Tastes of Tequila,Tequlia Sunrise,0.5 oz,grenadine,
+,,,1.5 oz,tequila,
+,,,4 oz,orange juice,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Freddy Fudpucker,1 oz,tequila,
+,,,0.5 oz,Galliano,
+,,,4 oz,orange juice,
+,,,1,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Mayan,1.5 oz,tequila,
+,,,0.5 oz,Kahlua,
+,,,2 oz,pineapple juice,
+,,,5-10 sec,shake,shake
+,,,3,espresso beans,garnish
+,,,some,ice cubes,ice
+,,,1,rocks glass,glass
+,,Mexican Mule,2 oz,tequila,
+,,,0.5,lime,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,3 oz,ginger beer,
+,,,1,lime wedge,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Tastes of Bourbon,Ward 8,2 oz,bourbon,
+,,,1 oz,orange juice,
+,,,0.5,lemon,
+,,,0.5 oz,grenadine,
+,,,some,ice cubes,ice
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,1,cocktail glass,glass
+,,Kentucky Colonel,1 oz,bourbon,
+,,,0.5 oz,Southern Comfort,
+,,,0.5 oz,triple sec,
+,,,2 oz,orange juice,
+,,,0.5,lemon,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,,Bourbon Smash,12,raspberries,
+,,,6,mint leaves,
+,,,1,muddle,muddle
+,,,2 oz,bourbon,
+,,,2 oz,red cranberry juice,
+,,,0.5,lime,
+,,,0.5 oz,simple syrup,
+,,,1 sprig,mint leaves,garnish
+,,,some,crushed ice,ice
+,,,1,highball glass,glass
+,,Mississippi Punch,1.5 oz,bourbon,
+,,,0.5 oz,brandy,
+,,,3 oz,water,
+,,,0.25,lemon,
+,,,0.5 oz,simple syrup,
+,,,5-10 sec,shake,shake
+,,,1,orange slice,garnish
 ,,,some,ice cubes,ice
 ,,,1,highball glass,glass
