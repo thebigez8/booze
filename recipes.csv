@@ -468,7 +468,7 @@ Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,Classic Hummer,1 oz,rye whiskey,
 ,,,1 oz,Kahlua,
 ,,,1 oz,half & half cream,
-,,,2 scoops,ice cream,
+,,,2 scoops,vanilla ice cream,
 ,,,1 cup,crushed ice,
 ,,,1,blender,blend
 ,,,3,coffee beans,garnish
@@ -647,7 +647,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,3 oz,pineapple juice,
 ,,,1 oz,lime juice,
 ,,,5-10 sec,shake,shake
-,,,1,orange flag,
+,,,1,orange flag,garnish
 ,,,some,ice cubes,ice
 ,,,1,highball glass,glass
 ,Tastes of Rum,Raggae Rum Punch,1.5 oz,dark rum,
@@ -765,7 +765,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,lime wheel,garnish
 ,,,1,hurricane glass,glass
 ,,Frozen Banana Daiquiri,1.5 oz,light rum,
-,,,0.5,ripe banana,
+,,,0.5,banana,
 ,,,1 oz,lime juice,
 ,,,0.5 oz,lime cordial,
 ,,,0.5 oz,simple syrup,
@@ -838,7 +838,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,hurricane glass,glass
 ,,Banana Colada,1.5 oz,light rum,
 ,,,2 oz,pineapple juice,
-,,,0.5,ripe banana,
+,,,0.5,banana,
 ,,,1 oz,half & half cream,
 ,,,1 oz,coconut cream,
 ,,,1 cup,crushed ice,
@@ -847,7 +847,7 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,hurricane glass,glass
 ,,Peach Colada,1.5 oz,light rum,
 ,,,2 oz,pineapple juice,
-,,,0.25,ripe peach,
+,,,0.25,peach,
 ,,,1 oz,half & half cream,
 ,,,1 oz,coconut cream,
 ,,,1 cup,crushed ice,
@@ -872,6 +872,8 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,pineapple flag,garnish
 ,,,1,hurricane glass,glass
 ,Margaritas,Lime Margarita on the Rocks,1,salted rim,garnish
+,,,1,margarita glass,glass
+,,,some,crushed ice,ice
 ,,,1 oz,tequila,
 ,,,0.5 oz,triple sec,
 ,,,2 oz,lime juice,
@@ -879,8 +881,9 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,0.5 oz,simple syrup,
 ,,,5-10 sec,shake,shake
 ,,,1,lime wedge,garnish
-,,,some,crushed ice,ice
 ,,Strawberry Margarita on the Rocks,1,superfine sugar rim,garnish
+,,,1,margarita glass,glass
+,,,some,crushed ice,ice
 ,,,4,strawberries,
 ,,,1,muddle,muddle
 ,,,1 oz,tequila,
@@ -890,9 +893,8 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,0.5 oz,simple syrup,
 ,,,5-10 sec,shake,shake
 ,,,1,lime wedge,garnish
-,,,some,crushed ice,ice
-,,,1,margarita glass,glass
 ,,Frozen Raspberry Margarita,1,superfine sugar rim,garnish
+,,,1,margarita glass,glass
 ,,,12,raspberries,
 ,,,1 oz,tequila,
 ,,,0.5 oz,triple sec,
@@ -902,7 +904,6 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1 cup,crushed ice,
 ,,,1,blender,blend
 ,,,3,raspberries,garnish
-,,,1,margarita glass,glass
 ,,Frozen Peach Margarita,0.25,peach,
 ,,,1 oz,tequila,
 ,,,0.5 oz,triple sec,
@@ -923,3 +924,140 @@ Summer Sippers,Sun & Sand Cocktails,Rum Runner,0.5 oz,light rum,
 ,,,1,lime wedge,garnish
 ,,,some,crushed ice,ice
 ,,,1,margarita glass,glass
+Frozen Drinks & Creamy Cocktails,Creamy Cocktails,Creme Brule,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1 oz,vanilla vodka,
+,,,0.5 oz,butterscotch schnapps,
+,,,2 oz,half & half cream,
+,,,0.5 oz,simple syrup,
+,,,0.5,egg white,
+,,,5-10 sec,shake,shake
+,,,0.5 tsp,cinammon,
+,,Jamaican Bobsled,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1 oz,spiced rum,
+,,,0.5 oz,Tia Maria,
+,,,2 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,,Strawberry Shortcake,1 oz,vanilla vodka,
+,,,1 oz,amaretto,
+,,,4,strawberries,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,strawberries,garnish
+,,Kid in a Candy Store,1 oz,Chambord,
+,,,0.5 oz,amaretto,
+,,,0.5 oz,Baileys,
+,,,4,Oreo cookies,
+,,,6,maraschino cherries,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,maraschino cherries,garnish
+,Kahlua Cocktails,Brown Cow,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1.5 oz,Kahlua,
+,,,2.5 oz,half & half cream,
+,,,1,maraschino cherries,garnish
+,,Mudslide,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1.5 oz,vodka,
+,,,0.5 oz,Kahlua,
+,,,0.5 oz,Baileys,
+,,,2 oz,half & half cream,
+,,,1,maraschino cherries,garnish
+,,Toasted Almond,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1.5 oz,amaretto,
+,,,1 oz,Kahlua,
+,,,2 oz,half & half cream,
+,,,1,maraschino cherries,garnish
+,,Butterscotch Mocha Bliss,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1.5 oz,Kahlua,
+,,,1 oz,butterscotch schnapps,
+,,,2 oz,half & half cream,
+,,,1,maraschino cherries,garnish
+,,Friar Tuck,1,rocks glass,glass
+,,,some,ice cubes,ice
+,,,1.5 oz,Frangelico,
+,,,1 oz,Kahlua,
+,,,2 oz,half & half cream,
+,,,1,maraschino cherries,garnish
+,Frozen Drinks I,Chocolate Strawberry Blizzard,1.5 oz,Kahlua,
+,,,2 oz,half & half cream,
+,,,1 oz,chocolate syrup,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,2,strawberries,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,chocolate-dipped strawberry,garnish
+,,Death by Chocolate,1 oz,dark creme de cacao,
+,,,0.5 oz,Baileys,
+,,,2 oz,half & half cream,
+,,,2 scoops,chocolate ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,maraschino cherries,garnish
+,,Banana Sandwich,1 oz,light rum,
+,,,0.5 oz,banana liqueur,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,3,Oreo cookies,
+,,,0.5,banana,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,Oreo cookies,garnish
+,,Banana Boat,1 oz,light rum,
+,,,0.5 oz,banana liqueur,
+,,,0.5 oz,white creme de cacao,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,0.5,banana,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,banana slice,garnish
+,Frozen Drinks II,Barnumint Bailey,0.75 oz,Baileys,
+,,,0.75 oz,green creme de menthe,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,3,Oreo cookies,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,Oreo cookies,garnish
+,,FBI,0.5 oz,Baileys,
+,,,0.5 oz,Kahlua,
+,,,0.5 oz,vodka,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,hurricane glass,glass
+,,,1,maraschino cherries,garnish
+,,Frozen Mudslide,0.5 oz,Baileys,
+,,,0.5 oz,Kahlua,
+,,,0.5 oz,vodka,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1 oz,chocolate syrup,
+,,,1,hurricane glass,glass
+,,Honey Boney,0.5 oz,Baileys,
+,,,0.5 oz,Frangelico,
+,,,0.5 oz,vanilla vodka,
+,,,2 oz,half & half cream,
+,,,2 scoops,vanilla ice cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1 oz,honey,
+,,,1,hurricane glass,glass
