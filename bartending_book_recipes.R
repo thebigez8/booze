@@ -1,8 +1,6 @@
 library(magrittr)
 library(tidyverse)
 
-#hi
-
 carrydown <- function(x)
 {
   for(i in 2:length(x))
@@ -14,14 +12,24 @@ carrydown <- function(x)
 
 `%nin%` <- Negate(`%in%`)
 
-recipes <- read_csv("recipes.csv", col_names = TRUE, col_types = cols()) %>%
+recipes_raw <- read_csv("recipes.csv", col_names = TRUE, col_types = cols()) %>%
   mutate(
     Chapter = carrydown(Chapter),
     Family = carrydown(Family),
     Name = carrydown(Name),
     Notes = ifelse(is.na(Notes), "ingredient", Notes)
-  ) %>%
-  nest(Amount, Ingredient, Notes) %>%
+  )
+
+# edit checks
+stopifnot(
+  !any(recipes_raw$Notes == "ice" & recipes_raw$Amount != "some"),
+  !any(grepl("\\bice", recipes_raw$Ingredient) & recipes_raw$Amount != "some" & recipes_raw$Notes != "ingredient"),
+  grepl("glass|flute", recipes_raw$Ingredient) == (recipes_raw$Notes == "glass")
+)
+
+
+recipes <- recipes_raw %>%
+  nest(data = c(Amount, Ingredient, Notes)) %>%
   mutate(
     Ingredients = map(data, function(df) filter(df, Notes == "ingredient")),
     Glass = map_chr(data, function(df) df$Ingredient[df$Notes == "glass"]),
