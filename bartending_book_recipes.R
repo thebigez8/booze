@@ -70,6 +70,7 @@ to_oz <- function(x, y)
     x == "4 dashes" ~ 0.125,
     x == "1 tsp" ~ 1/6,
     x == "0.5 tsp" ~ 1/12,
+    x == "1 scoop" ~ 4,
     x %in% c("1 cup", "2 scoops") ~ 8,
     !grepl(" oz$", x) & y %nin% names(mult) ~ NA_real_,
     TRUE ~ as.numeric(sub("^([0-9.]+).*", "\\1", x)) * ifelse(y %in% names(mult), mult[y], 1)
