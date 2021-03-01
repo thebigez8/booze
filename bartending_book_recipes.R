@@ -34,25 +34,49 @@ recipes <- read_csv("recipes.csv", col_names = TRUE, col_types = cols()) %>%
 
 to_oz <- function(x, y)
 {
+  mult <- c(
+    "diced lemon" = 2,
+    lemon = 2,
+    lime = 1,
+    "lime wedge" = 1/8,
+    blueberries = 1/8,
+    "maraschino cherries" = 1/6,
+    raspberries = 1/6,
+    "egg white" = 1,
+    "1-inch melon chunks" = 0.5,
+    strawberries = 0.75,
+    "Oreo cookies" = 0.75,
+    banana = 6,
+    peach = 8,
+    "mint leaves" = 0.03,
+    "orange slice" = 0.5,
+    "pineapple ring" = 4
+  )
+  x[x == "3 or 4"] <- "4"
+  x[x == "12 to 15"] <- "15"
   case_when(
     x == "2 shakes" & y %in% c("salt", "pepper") ~ 0.02,
     x == "2 shakes" & y %in% c("Tabasco sauce", "Tabasco's Habanero sauce", "Worcestershire sauce") ~ 0.04,
     x == "2 dashes" ~ 0.0625,
     x == "3 dashes" ~ 0.09375,
     x == "4 dashes" ~ 0.125,
-    x == "1 tsp" ~ 0.1667,
-    x == "6" & y == "raspberries" | x == "12 to 15" & y == "mint leaves" ~ 0.5,
-    x == "3 or 4" & y %in% c("1-inch melon chunks", "strawberries") ~ 1.66,
+    x == "1 tsp" ~ 1/6,
+    x == "0.5 tsp" ~ 1/12,
     x %in% c("1 cup", "2 scoops") ~ 8,
-    TRUE ~ as.numeric(stringr::str_extract(x, "^[\\d\\.]+"))
+    !grepl(" oz$", x) & y %nin% names(mult) ~ NA_real_,
+    TRUE ~ as.numeric(sub("^([0-9.]+).*", "\\1", x)) * ifelse(y %in% names(mult), mult[y], 1)
   )
 }
 
 amounts <- recipes %>%
   select(Name, Ingredients) %>%
-  unnest() %>%
+  unnest(Ingredients) %>%
   mutate(oz = to_oz(Amount, Ingredient)) %>%
   select(Name, Ingredient, oz) %>%
+  (function(x) {
+    if(anyNA(x$oz)) stop("Missing oz's")
+    x
+  }) %>% 
   spread(key = Name, value = oz, fill = 0) %>%
   arrange(Ingredient) %>%
   as.data.frame() %>%
