@@ -1,3 +1,4 @@
+"## skipping ""warmers"" and ""shooters"" chapters, along with shooters in mocktail chapter",,,,,
 Chapter,Family,Name,Amount,Ingredient,Notes
 Classic Cocktails,Screwdrivers,Screwdriver,1 oz,vodka,
 ,,,4 oz,orange juice,
@@ -1098,3 +1099,210 @@ Frozen Drinks & Creamy Cocktails,Creamy Cocktails,Creme Brule,1,rocks glass,glas
 ,,,1,blender,blend
 ,,,1,hurricane glass,glass
 ,,,1,orange boat,garnish
+Alcohol-Free Cocktails,Citrus Mocktails,Homemade Lemonade,0.5,lemon zest,
+,,,1.5,simple syrup,
+,,,4 oz,boiling water,
+,,,4 oz,ice-cold water,
+,,,1 oz,lemon juice,
+,,,1,highball glass,glass
+,,,1,lemon wheel,garnish
+,,Virgin Caipirinha,0.5,lemon,
+,,,0.5,lime,
+,,,0.5,mandarin orange,
+,,,0.5 oz,simple syrup,
+,,,1,highball glass,glass
+,,,1,muddle,muddle
+,,,some,crushed ice,ice
+,,,6 oz,ginger ale,
+,,,1 sprig,mint,
+,,Virgin Seabreeze,1,highball glass,glass
+,,,some,ice cubes,ice
+,,,3 oz,red cranberry juice,
+,,,3 oz,white grapefruit juice,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,lime wheel,garnish
+,,Shirley Temple,1,highball glass,glass
+,,,some,ice cubes,ice
+,,,0.25,lime,
+,,,6 oz,ginger ale,
+,,,0.5 oz,grenadine,
+,,,1,maraschino cherries,garnish
+,,Homemade Limeade,0.5,lime zest,
+,,,1.5,simple syrup,
+,,,4 oz,boiling water,
+,,,4 oz,ice-cold water,
+,,,1 oz,lime juice,
+,,,1,highball glass,glass
+,,,1,lemon wheel,garnish
+,Cranberry-Based Mocktails,Virgin Madras,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,3 oz,red cranberry juice,
+,,,3 oz,orange juice,
+,,,5-10 sec,shake,shake
+,,,1,lime wheel,garnish
+,,Shakers Dream,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,3 oz,lemonade,
+,,,2 oz,red cranberry juice,
+,,,2 oz,pineapple juice,
+,,,5-10 sec,shake,shake
+,,,1,lime wheel,garnish
+,,Cranberry Pucker,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,3 oz,lemonade,
+,,,3 oz,red cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1 oz,club soda,
+,,,1,lemon wheel,garnish
+,,Berry Sweetheart,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,3 oz,red cranberry juice,
+,,,3 oz,apple juice,
+,,,1 oz,honey,
+,,,1,maraschino cherries,garnish
+,Tropical Mocktails,Virgin Strawberry Sling,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,2 oz,apple juice,
+,,,2 oz,pineapple juice,
+,,,1 oz,strawberry puree,
+,,,5-10 sec,shake,shake
+,,,1 oz,club soda,
+,,,1,strawberry,garnish
+,,Virgin Singapore Sling,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,2 oz,orange juice,
+,,,2 oz,pineapple juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,6 oz,club soda,
+,,,1 dash,grenadine,
+,,,1,maraschino cherries,garnish
+,,Tropical Ale,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,3 oz,pineapple juice,
+,,,3 oz,ginger ale,
+,,,0.5 oz,grenadine,
+,,,1,maraschino cherries,garnish
+,,Pineapple Passion,1,highball glass,glass
+,,,1,ice cubes,ice
+,,,2 oz,pineapple juice,
+,,,2 oz,orange juice,
+,,,2 oz,lemonade,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,maraschino cherries,garnish
+,Elegant Mocktails,Virgin Cosmopolitan,some,ice cubes,ice
+,,,4 oz,red cranberry juice,
+,,,0.5 oz,lime cordial,
+,,,0.5,lime,
+,,,0.25,orange,
+,,,5-10 sec,shake,shake
+,,,1,orange spiral,garnish
+,,Virgin Lychee-tini,some,ice cubes,ice
+,,,2 oz,apple juice,
+,,,2 oz,red cranberry juice,
+,,,1 oz,lychee juice,
+,,,1 oz,lime juice,
+,,,5-10 sec,shake,shake
+,,,1,lychee,garnish
+,,Virgin Bellini,2 oz,peach puree,
+,,,1,champagne flute,glass
+,,,4 oz,alcohol-free sparkling white wine,
+,,,1,peach slice,garnish
+,,Virgin Mojito,0.5 oz,lime juice,
+,,,0.5 oz,simple syrup,
+,,,8 to 10,mint leaves,
+,,,1,rocks glass,glass
+,,,1,muddle,muddle
+,,,some,crushed ice,ice
+,,,6 oz,club soda,
+,,,1 sprig,mint,garnish
+,,Virgin Metropolitan,some,ice cubes,ice
+,,,4 oz,red cranberry juice,
+,,,0.5 oz,black currant cordial,
+,,,0.5,lime,
+,,,0.25,orange,
+,,,5-10 sec,shake,shake
+,,,1,orange spiral,garnish
+,,Virgin Bellini,2 oz,strawberry puree,
+,,,1,champagne flute,glass
+,,,4 oz,alcohol-free sparkling white wine,
+,,,1,strawberry,garnish
+,Wine-Based Mocktails,Virgin Wine Spritzer,some,ice cubes,ice
+,,,1,wine glass,glass
+,,,4 oz,alcohol-free white wine,
+,,,2 oz,club soda,
+,,,1,lime wedge,garnish
+,,Virgin Wine Cooler,some,ice cubes,ice
+,,,1,wine glass,glass
+,,,4 oz,alcohol-free white wine,
+,,,2 oz,lemon-lime soda,
+,,,1,lime wedge,garnish
+,,Virgin Morning Glory,2 oz,orange juice,
+,,,1,champagne flute,glass
+,,,4 oz,alcohol-free sparkling white wine,
+,,,1,orange spiral,garnish
+,,Virgin Sangria,2.5 oz,alcohol-free red wine,
+,,,0.4 oz,red cranberry juice,
+,,,0.4 oz,orange juice,
+,,,0.2 oz,lime juice,
+,,,0.15 oz,simple syrup,
+,,,0.1,apple,
+,,,0.1,pear,
+,,,0.1,orange,
+,,,0.1,lemon,
+,,,0.1,lime,
+,,,some,ice cubes,ice
+,,,1,highball glass,glass
+,Tomato-Based Mocktails,Virgin Bloody Mary,1,salted rim,garnish
+,,,1,highball glass,glass
+,,,some,ice cubes,ice
+,,,6 oz,tomato juice,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,lemon wheel,garnish
+,,Virgin Bloody Caesar,1,celery salted rim,garnish
+,,,1,highball glass,glass
+,,,some,ice cubes,ice
+,,,6 oz,clam-tomato juice,
+,,,2 shakes,Worcestershire sauce,
+,,,2 shakes,Tabasco sauce,
+,,,2 shakes,salt,
+,,,2 shakes,pepper,
+,,,1,celery stalk,garnish
+,,,1,lime wheel,garnish
+,Frozen Mocktails I,Virgin Pina Colada,2 oz,pineapple juice,
+,,,2 oz,coconut cream,
+,,,1 oz,half & half cream,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,highball glass,glass
+,,,1,pineapple flag,garnish
+,,Virgin Strawberry Colada,2 oz,pineapple juice,
+,,,1 oz,coconut cream,
+,,,1 oz,half & half cream,
+,,,2 oz,strawberry puree,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,highball glass,glass
+,,,1,strawberry,garnish
+,,Virgin Strawberry Daiquiri,3 oz,strawberry puree,
+,,,3 oz,lime juice,
+,,,0.5 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,highball glass,glass
+,,,1,strawberry,garnish
+,,Virgin Miami Vice,1 oz,pineapple juice,
+,,,1 oz,coconut cream,
+,,,0.5 oz,half & half cream,
+,,,1.5 oz,strawberry puree,
+,,,1.5 oz,lime juice,
+,,,0.25 oz,simple syrup,
+,,,1 cup,crushed ice,
+,,,1,blender,blend
+,,,1,highball glass,glass
+,,,1,strawberry,garnish
