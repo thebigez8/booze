@@ -12,6 +12,7 @@ carrydown <- function(x)
 
 `%nin%` <- Negate(`%in%`)
 
+## skipping "warmers" and "shooters" chapters, along with shooters in mocktail chapter
 recipes_raw <- read_csv("recipes.csv", col_names = TRUE, col_types = cols()) %>%
   mutate(
     Chapter = carrydown(Chapter),
@@ -45,8 +46,10 @@ to_oz <- function(x, y)
   mult <- c(
     "diced lemon" = 2,
     lemon = 2,
+    "lemon zest" = 1,
     lime = 1,
     "lime wedge" = 1/8,
+    "lime zest" = 0.5,
     blueberries = 1/8,
     "maraschino cherries" = 1/6,
     raspberries = 1/6,
@@ -56,6 +59,12 @@ to_oz <- function(x, y)
     "Oreo cookies" = 0.75,
     banana = 6,
     peach = 8,
+    mango = 8,
+    kiwi = 4,
+    orange = 8,
+    apple = 8,
+    pear = 8,
+    "mandarin orange" = 2,
     "mint leaves" = 0.03,
     "orange slice" = 0.5,
     "pineapple ring" = 4
