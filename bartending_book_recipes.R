@@ -64,6 +64,7 @@ to_oz <- function(x, y)
     orange = 8,
     apple = 8,
     pear = 8,
+    "passion fruit" = 8,
     "mandarin orange" = 2,
     "mint leaves" = 0.03,
     "orange slice" = 0.5,
