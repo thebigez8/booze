@@ -78,6 +78,7 @@ to_oz <- function(x, y)
     x == "3 dashes" ~ 0.09375,
     x == "4 dashes" ~ 0.125,
     x == "1 tsp" ~ 1/6,
+    x == "2 tsp" ~ 1/3,
     x == "0.5 tsp" ~ 1/12,
     x == "1 scoop" ~ 4,
     x %in% c("1 cup", "2 scoops") ~ 8,
