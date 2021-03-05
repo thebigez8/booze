@@ -932,7 +932,7 @@ Frozen Drinks & Creamy Cocktails,Creamy Cocktails,Creme Brule,1,rocks glass,glas
 ,,,0.5 oz,simple syrup,
 ,,,0.5,egg white,
 ,,,5-10 sec,shake,shake
-,,,0.5 tsp,cinammon,
+,,,some,cinammon,garnish
 ,,Jamaican Bobsled,1,rocks glass,glass
 ,,,some,ice cubes,ice
 ,,,1 oz,spiced rum,
@@ -1697,3 +1697,192 @@ Martinis,Classic Martinis,Classic Gin Martini,some,ice cubes,ice
 ,,,5-10 sec,shake,shake
 ,,,1,cocktail glass,glass
 ,,,1,maraschino cherries,garnish
+,Asian-Inspired Martinis,Japanese Slipper Martini,1,superfine sugar rim,garnish
+,,,1,cocktail glass,glass
+,,,some,ice cubes,ice
+,,,1.75 oz,tequila,
+,,,0.75 oz,Midori melon liqueur,
+,,,0.5 oz,simple syrup,
+,,,0.5 oz,lemon,
+,,,5-10 sec,shake,shake
+,,Sake-tini,some,ice cubes,ice
+,,,1.5 oz,sake,
+,,,0.5 oz,gin,
+,,,0.5 oz,triple sec,
+,,,1,cocktail glass,glass
+,,,1,orange spiral,garnish
+,,Lotus Martini,some,ice cubes,ice
+,,,2 oz,gin,
+,,,0.5 oz,blue curacao,
+,,,2 oz,lychee syrup,
+,,,0.5 oz,grenadine,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1 sprig,mint,garnish
+,,Asian Pear Martini,some,ice cubes,ice
+,,,1.5 oz,sake,
+,,,1 oz,Asian pear liqueur,
+,,,1 oz,apple juice,
+,,,0.5,lemon,
+,,,1,cocktail glass,glass
+,,,1,pear slice,garnish
+,Fruity Martinis I,Banana Popsicle Martini,some,ice cubes,ice
+,,,1 oz,banana liqueur,
+,,,1 oz,blue curacao,
+,,,3 oz,white cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,banana slice,garnish
+,,Lemon Drop Martini,1,superfine sugar rim,garnish
+,,,1,cocktail glass,glass
+,,,some,ice cubes,ice
+,,,2 oz,citrus vodka,
+,,,0.5 oz,triple sec,
+,,,0.5,lemon,
+,,,5-10 sec,shake,shake
+,,,1,lemon wheel,garnish
+,,Melon Ball Martini,some,ice cubes,ice
+,,,1.75 oz,citrus vodka,
+,,,0.75 oz,Midori melon liqueur,
+,,,3 oz,orange juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,orange flag,garnish
+,,Candy Apple Martini,some,ice cubes,ice
+,,,1.5 oz,green apple vodka,
+,,,0.5 oz,sour apple liqueur,
+,,,0.5 oz,butterscotch schnapps,
+,,,3 oz,apple juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,apple slice,garnish
+,,Electric Banana Popsicle Martini,some,ice cubes,ice
+,,,1.5 oz,vodka,
+,,,0.5 oz,banana liqueur,
+,,,0.5 oz,blue curacao,
+,,,3 oz,white cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,banana slice,garnish
+,,Candy Apple Tart Martini,some,ice cubes,ice
+,,,1.5 oz,green apple vodka,
+,,,0.5 oz,sour apple liqueur,
+,,,0.5 oz,butterscotch schnapps,
+,,,3 oz,red cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,apple slice,garnish
+,Fruity Martinis I,Jolly Rancher Martini,some,ice cubes,ice
+,,,1 oz,raspberry vodka,
+,,,0.5 oz,sour apple liqueur,
+,,,0.5 oz,sour raspberry liqueur,
+,,,0.5 oz,banana liqueur,
+,,,3 oz,red cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,lemon wheel,garnish
+,,Raspberry Tartini,some,ice cubes,ice
+,,,1.5 oz,raspberry vodka,
+,,,0.5 oz,Chambord,
+,,,0.5 oz,sour raspberry liqueur,
+,,,3 oz,red cranberry juice,
+,,,0.5,lime,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,3,raspberries,garnish
+,,Saturn's Moons,some,ice cubes,ice
+,,,2 oz,citrus vodka,
+,,,2 oz,Chardonnay,
+,,,1.5 oz,white grape juice,
+,,,1 tsp,honey,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,3,grapes,garnish
+,,Tropical Cream Martini,some,ice cubes,ice
+,,,0.5 oz,vodka,
+,,,0.5 oz,Midori melon liqueur,
+,,,0.5 oz,peach schnapps,
+,,,0.5 oz,coconut rum,
+,,,0.5 oz,Frangelico,
+,,,2 oz,orange juice,
+,,,1 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,kiwi wheel,garnish
+,Cake and Pie Martinis,Black Forest Cake Martini,some,ice cubes,ice
+,,,1.5 oz,vodka,
+,,,0.5 oz,white creme de cacao,
+,,,0.5 oz,Chambord,
+,,,1.5 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,some,nutmeg,garnish
+,,Key Lime Pie Martini,1,crushed graham cracker rim,garnish
+,,,1,cocktail glass,glass
+,,,some,ice cubes,ice
+,,,2 oz,vanilla vodka,
+,,,0.5 oz,triple sec,
+,,,2.5 oz,pineapple juice,
+,,,0.5 oz,lime cordial,
+,,,0.5,lime,
+,,,5-10 sec,shake,shake
+,,Apple Pie Martini,some,ice cubes,ice
+,,,1.75 oz,vodka,
+,,,0.75 oz,Goldschlager,
+,,,1.5 oz,apple juice,
+,,,1.5 oz,red cranberry juice,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,apple slice,garnish
+,,Banana Cream Pie,1,crushed graham cracker rim,garnish
+,,,1,cocktail glass,glass
+,,,some,ice cubes,ice
+,,,1 oz,banana liqueur,
+,,,1 oz,amaretto,
+,,,0.5 oz,Baileys,
+,,,1 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,banana slice,garnish
+,,Apple Pie a la mode Martini,some,ice cubes,ice
+,,,1.75 oz,vodka,
+,,,0.75 oz,Goldschlager,
+,,,1.5 oz,apple juice,
+,,,1 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,apple slice,garnish
+,,,some,cinammon,garnish
+,Rum Martinis,redruM Martini,some,ice cubes,ice
+,,,1 oz,amber rum,
+,,,1 oz,vanilla vodka,
+,,,0.5 oz,sloe gin,
+,,,0.5,lemon,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,maraschino cherries,garnish
+,,Azure Martini,some,ice cubes,ice
+,,,2 oz,spiced rum,
+,,,0.5 oz,Goldschlager,
+,,,2 oz,apple juice,
+,,,0.5,lime,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,cinammon stick,garnish
+,,Bees Knees,1.5 oz,light rum,
+,,,1 oz,dark rum,
+,,,1 tsp,honey,
+,,,some,ice cubes,ice
+,,,1.5 oz,orange juice,
+,,,0.5 oz,half & half cream,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,orange spiral,garnish
+,,Bella Donna,some,ice cubes,ice
+,,,1.5 oz,dark rum,
+,,,1 oz,amaretto,
+,,,1 oz,water,
+,,,0.5 oz,simple syrup,
+,,,0.5,lemon,
+,,,5-10 sec,shake,shake
+,,,1,cocktail glass,glass
+,,,1,cinammon stick,garnish
